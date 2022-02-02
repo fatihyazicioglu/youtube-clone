@@ -22,3 +22,12 @@ body{
     
 
 }
+.youtubeHeaderIcons{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    outline: red dashed;
+    align-items: center;
+    height: 60px;
+    width: 15vw;
+}
