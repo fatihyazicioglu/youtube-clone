@@ -82,4 +82,14 @@ body {
 .youtubeSidebarField i{
     font-size: 20px;
 }
+.youtubeSidebarField h1{
+    font-size: 20px;
+    font-weight: 300;
+}
+.youtubeSidebar_hr{
+    border: rgb(226, 226, 226) 1px solid;
+    width: 100%;
+    margin: 10px;
+
+}
 
