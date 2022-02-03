@@ -72,6 +72,14 @@ body {
     flex-direction: row;
     align-items: center;
     width: 100%;
-    outline: red dashed;
-
+    margin: 5px;
+    cursor: pointer;
 }
+.youtubeSidebarField:hover{
+    background-color: rgb(228, 227, 227);
+    border-radius: 5%;
+}
+.youtubeSidebarField i{
+    
+}
+
