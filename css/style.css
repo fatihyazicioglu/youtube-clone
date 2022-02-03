@@ -36,6 +36,12 @@ body {
   justify-content: center;
   align-items: center;
 }
+.youtubeHeaderSearchInput{
+    width: 27em;
+    height: 1.5em;
+    border: 0.1px solid rgb(206, 205, 205);
+    border-radius: 5px;
+}
 
 .youtubeHeaderIcons {
   display: flex;
