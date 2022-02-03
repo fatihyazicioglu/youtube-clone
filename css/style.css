@@ -120,9 +120,10 @@ body {
     flex-direction: column;
 }
 .youtubeVideoTitle{
-    font-size: 15px;
+    font-size: 17px;
     color:#000;
-    font-weight:500;
+    font-weight:550;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: 10px;
     margin-top: 12px;
     margin-bottom: 0;
