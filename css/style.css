@@ -42,6 +42,9 @@ body {
     border: 0.1px solid rgb(206, 205, 205);
     border-radius: 5px;
 }
+.youtubeHeaderSearchInput:hover{
+    border: 0.1px solid rgb(110, 109, 109);
+}
 
 .youtubeHeaderIcons {
   display: flex;
