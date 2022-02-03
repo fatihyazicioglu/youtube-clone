@@ -59,13 +59,19 @@ body {
   flex-direction: row;
 }
 .youtubeSidebar{
-    
+    margin-top: 50px;
     display:flex;
     flex-direction: column;
     width: 250px;
     height: 100vh;
     position:fixed;
     left:0;
+}
+.youtubeSidebarField{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
     outline: red dashed;
-    
+
 }
