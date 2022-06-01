@@ -13,7 +13,9 @@
     <title>Document</title>
   </head>
   <body>
+    
     <header class="youtubeHeader">
+
       <div class="youtubeLogo">
         <svg
           viewBox="0 0 90 20"
@@ -88,6 +90,10 @@
         <button><i class="fas fa-microphone"></i></button>
       </div>
       <div class="youtubeHeaderIcons">
+        <div class="main">
+          Dark theme 🌙
+          <input type="checkbox" onchange="theme()" name="mood" id="light-dark" />
+        </div>
         <div class="youtubeHeaderIcon">
           <i class="fa fa-video-camera"></i></div>
         <div class="youtubeHeaderIcon">
@@ -444,5 +450,6 @@
       </div>
 
     </div>
+    <script src="./js/app.js"></script>
   </body>
 </html>
